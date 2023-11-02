@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS NFL_Basic;
 
-CREATE TABLE NFL_Basic (
+CREATE TABLE NFL_Basic ( 
  	"Game ID" VARCHAR(10),
  	"Date" VARCHAR(10),
  	"Away Team" VARCHAR(40) NOT NULL,

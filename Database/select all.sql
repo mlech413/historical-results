@@ -1,1 +1,2 @@
-SELECT * FROM NFL_Basic;
+SELECT * FROM NFL_Basic
+order by 2;
